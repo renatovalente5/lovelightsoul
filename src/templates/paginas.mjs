@@ -140,9 +140,9 @@ function inicioB(ctx, d) {
   return `
 <section class="capa-b">
   <div class="capa-b__fotos">
-    ${foto(ctx, F.capa2.ficheiro, F.capa2.alt, { sizes: '33vw' })}
-    ${foto(ctx, F.capa.ficheiro, F.capa.alt, { classe: 'capa-b__meio', sizes: '(min-width:980px) 33vw, 100vw', prioridade: true, foco: '50% 40%' })}
     ${foto(ctx, F.capaSaco.ficheiro, F.capaSaco.alt, { sizes: '33vw', foco: '45% 50%' })}
+    ${foto(ctx, F.capa.ficheiro, F.capa.alt, { classe: 'capa-b__meio', sizes: '(min-width:960px) 33vw, 100vw', prioridade: true, foco: '50% 40%' })}
+    ${foto(ctx, F.capa2.ficheiro, F.capa2.alt, { sizes: '33vw', foco: '40% 50%' })}
   </div>
   <div class="capa-b__painel">
     <p class="etiqueta">${esc(c.etiqueta)}</p>
@@ -361,6 +361,11 @@ export function ocasiao(ctx, d, o) {
 }
 
 // ================================================================== a ficha de uma peça
+const EXEMPLOS = {
+  lembrancas: 'Ex.: Batizado do Tomás · 14 de junho de 2027', 'caixas-de-flores': 'Ex.: Adoro-te, Madrinha',
+  presentes: 'Ex.: Para a melhor professora', natal: 'Ex.: Feliz Natal, Avó', velas: 'Ex.: Para a melhor mãe do mundo',
+};
+
 export function peca(ctx, d, p) {
   const c = cat(d, p.categoria);
   const e = p.escolhas || {};
@@ -387,7 +392,7 @@ export function peca(ctx, d, p) {
     </fieldset>` : '';
   const texto = e.texto ? `<div class="escolha">
       <label for="texto">${esc(e.texto)} <span class="opcional">(opcional)</span></label>
-      <textarea id="texto" name="texto" rows="2" maxlength="300" placeholder="Ex.: Batizado do Tomás · 14 de junho de 2027"></textarea>
+      <textarea id="texto" name="texto" rows="2" maxlength="300" placeholder="${esc(EXEMPLOS[p.categoria] || 'Escreva aqui o texto')}"></textarea>
     </div>` : '';
   const rel = d.produtos.filter((x) => x.slug !== p.slug && (x.categoria === p.categoria || (x.ocasioes || []).some((o) => (p.ocasioes || []).includes(o)))).slice(0, 4);
   const ocs = (p.ocasioes || []).map((s) => d.ocasioes.find((o) => o.slug === s)).filter(Boolean);
