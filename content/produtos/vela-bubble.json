@@ -1,0 +1,28 @@
+{
+  "nome": "Vela bubble",
+  "categoria": "velas",
+  "ocasioes": [],
+  "resumo": "Vela bubble (cubo) em cera de soja.",
+  "descricao": "O nosso cubo bubble, tão perfeito, em cera de soja e com o aroma à escolha. Em tamanho pequeno serve de lembrança.",
+  "detalhes": [
+    "Cera de soja 100 %"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "vela-bubble-1",
+      "alt": "Vela bubble em cubo, branca"
+    },
+    {
+      "ficheiro": "vela-bubble-2",
+      "alt": "Vela bubble sobre tabuleiro de madeira"
+    }
+  ],
+  "ordem": 28
+}

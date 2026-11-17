@@ -1,0 +1,14 @@
+[
+  { "nome": "Flor de lótus", "cor": "#E9B7C1", "notas": ["Flor de laranjeira e jasmim", "Lótus, limão, rosa e gerânio", "Verde, baunilha e patchouli"] },
+  { "nome": "Baunilha", "cor": "#EAD9B5", "notas": ["Baunilha e côco", "Biscoito, leite e doce", "Manteiga"] },
+  { "nome": "Côco", "cor": "#F3EEE6", "notas": ["Leite de côco", "Doce e baunilha", "Orquídea e almíscar branco"] },
+  { "nome": "Café torrado", "cor": "#6F4A35", "notas": ["Cacau e açúcar", "Grãos de café e expresso", "Café torrado e natas"] },
+  { "nome": "Explosão floral", "cor": "#E58FA4", "notas": null },
+  { "nome": "Lavanda e camomila", "cor": "#B7A6D6", "notas": ["Lavanda, limão e bergamota", "Camomila, fava tonka, lilás e pinho", "Açúcar e almíscar"] },
+  { "nome": "Maçã e canela", "cor": "#C2563F", "notas": ["Canela", "Maçã e baunilha", "Especiarias"] },
+  { "nome": "Laranja e canela", "cor": "#E8954A", "notas": ["Laranja e tangerina", "Canela, gengibre e cravinho", "Baunilha e especiarias"] },
+  { "nome": "Frutos vermelhos", "cor": "#8E2C3E", "notas": ["Framboesa, romã e ameixa", "Mirtilo, lilás, morango, cereja e baunilha", "Rosa, almíscar e tangerina"] },
+  { "nome": "Limão e framboesa", "cor": "#E7D35C", "notas": null },
+  { "nome": "Orquídea preta e lírio", "cor": "#4B2F45", "notas": ["Bergamota, limão e especiarias", "Noz-pecã, jasmim, lírio e flores", "Orquídea, cedro, sândalo e baunilha"], "preferido": true },
+  { "nome": "Água do mar", "cor": "#7FB1C9", "notas": ["Notas marinhas, limão e âmbar", "Bergamota, notas aquosas e frésia", "Vetiver, musgo de carvalho e patchouli"] }
+]

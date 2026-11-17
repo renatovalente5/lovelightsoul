@@ -1,0 +1,30 @@
+{
+  "nome": "Humidificador com difusor",
+  "categoria": "casa",
+  "ocasioes": [],
+  "resumo": "Humidificador com difusor de aromas e luzes LED, para espaços até 25 m².",
+  "descricao": "Elegante e decorativo, com difusor de aromas integrado e luzes LED multicoloridas. Capacidade de 130 ml, ligação USB, 2 a 3 horas de duração; eficaz em espaços até 25 m². Leva água (de preferência mineral) e até 6,5 ml de essência.",
+  "detalhes": [
+    "130 ml",
+    "USB",
+    "9,5 × 10 cm, 125 g"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "humidificador-1",
+      "alt": "Humidificador redondo com acabamento de madeira"
+    },
+    {
+      "ficheiro": "humidificador-2",
+      "alt": "Humidificador com luz LED"
+    }
+  ],
+  "ordem": 52
+}

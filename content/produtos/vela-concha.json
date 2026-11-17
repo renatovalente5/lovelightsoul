@@ -1,0 +1,29 @@
+{
+  "nome": "Vela concha",
+  "categoria": "velas",
+  "ocasioes": [],
+  "resumo": "Vela em forma de concha, com aroma de água do mar.",
+  "descricao": "A nossa concha, com o aroma de água do mar: uma peça decorativa para quem gosta de aromas frescos e suaves.",
+  "detalhes": [
+    "Cera de soja 100 %",
+    "Aroma de água do mar"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "vela-concha-1",
+      "alt": "Vela branca em forma de concha"
+    },
+    {
+      "ficheiro": "vela-concha-2",
+      "alt": "Vela concha sobre tabuleiro com conchas"
+    }
+  ],
+  "ordem": 27
+}

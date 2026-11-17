@@ -1,0 +1,24 @@
+{
+  "nome": "Vela Sagrada Família",
+  "categoria": "velas",
+  "ocasioes": [],
+  "resumo": "Vela decorativa com a Sagrada Família.",
+  "descricao": "«A Sagrada Família revela que a família é sagrada.» Uma vela decorativa em cera de soja.",
+  "detalhes": [
+    "Cera de soja 100 %"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "vela-sagrada-familia-1",
+      "alt": "Vela oval com a Sagrada Família em relevo"
+    }
+  ],
+  "ordem": 29
+}

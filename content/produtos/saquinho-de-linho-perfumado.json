@@ -1,0 +1,29 @@
+{
+  "nome": "Saquinho de linho perfumado",
+  "categoria": "lembrancas",
+  "ocasioes": [
+    "casamento",
+    "batizado",
+    "comunhao"
+  ],
+  "resumo": "Saqueta perfumada num saco de linho, para gavetas e roupeiros.",
+  "descricao": "Uma saqueta perfumada num saquinho de linho: uma lembrança para qualquer evento, que depois perfuma armários e gavetas.",
+  "detalhes": [
+    "Saco de linho",
+    "Para gavetas e roupeiros"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": "Nome e data para a etiqueta"
+  },
+  "unidade": "lembranças",
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "saquinho-de-linho-perfumado-1",
+      "alt": "Saquinho de linho com saqueta perfumada e etiqueta"
+    }
+  ],
+  "ordem": 17
+}

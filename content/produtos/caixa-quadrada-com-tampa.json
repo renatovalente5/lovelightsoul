@@ -1,0 +1,28 @@
+{
+  "nome": "Caixa quadrada com tampa",
+  "categoria": "caixas-de-flores",
+  "ocasioes": [],
+  "resumo": "Caixa quadrada com tampa de acrílico personalizável.",
+  "descricao": "Flores de cera de soja e flores preservadas numa caixa quadrada com tampa de acrílico. A tampa leva a mensagem que quiser.",
+  "detalhes": [
+    "Tampa de acrílico personalizável"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": "Mensagem para a tampa"
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "caixa-quadrada-com-tampa-1",
+      "alt": "Caixa quadrada com tampa de acrílico e laço branco"
+    },
+    {
+      "ficheiro": "caixa-quadrada-com-tampa-2",
+      "alt": "Caixa quadrada aberta com flores de cera"
+    }
+  ],
+  "ordem": 35
+}

@@ -1,0 +1,29 @@
+{
+  "nome": "Saco de Natal com copo dourado",
+  "categoria": "natal",
+  "ocasioes": [],
+  "resumo": "Saco de tecido de Natal com vela em copo dourado com o logótipo.",
+  "descricao": "Saco de tecido com padrão de Natal, fita verde e medalha «Feliz Natal» em forma de sino, com uma vela em copo dourado com o logótipo gravado. Pode levar ou não a mensagem «Feliz Natal».",
+  "detalhes": [
+    "Vela em copo dourado",
+    "Aroma aleatório"
+  ],
+  "escolhas": {
+    "aroma": false,
+    "lacos": null,
+    "texto": "Com ou sem «Feliz Natal»"
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "saco-de-natal-copo-dourado-1",
+      "alt": "Saco de tecido de Natal ao lado de uma vela em copo dourado"
+    },
+    {
+      "ficheiro": "saco-de-natal-copo-dourado-2",
+      "alt": "Vela dourada acesa junto ao saco de Natal"
+    }
+  ],
+  "ordem": 60
+}

@@ -1,0 +1,37 @@
+{
+  "nome": "Bases com folha de ouro",
+  "categoria": "casa",
+  "ocasioes": [],
+  "resumo": "Bases em pó cerâmico perfumado com folha de ouro, para joias, velas ou chaves.",
+  "descricao": "Bases decorativas em pó cerâmico perfumado com folha de ouro: para pousar joias, velas ou chaves. Há em forma de nuvem, de concha e oval.",
+  "detalhes": [
+    "Pó cerâmico perfumado",
+    "Folha de ouro"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "bases-com-folha-de-ouro-1",
+      "alt": "Base em forma de nuvem com folha de ouro e vela cor-de-rosa"
+    },
+    {
+      "ficheiro": "bases-com-folha-de-ouro-2",
+      "alt": "Base em forma de concha com pérolas douradas"
+    },
+    {
+      "ficheiro": "bases-com-folha-de-ouro-3",
+      "alt": "Base com folha de ouro e peónia"
+    },
+    {
+      "ficheiro": "bases-com-folha-de-ouro-4",
+      "alt": "Base com floco de neve em vela"
+    }
+  ],
+  "ordem": 54
+}

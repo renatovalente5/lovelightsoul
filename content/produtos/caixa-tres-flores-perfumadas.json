@@ -1,0 +1,33 @@
+{
+  "nome": "Caixa com três flores perfumadas",
+  "categoria": "presentes",
+  "ocasioes": [],
+  "resumo": "Caixa premium com três flores em pó cerâmico e uma recarga de 15 ml.",
+  "descricao": "Um miminho para todos: caixa PREMIUM com o logótipo a dourado e íman, três flores diferentes em pó cerâmico perfumado e uma recarga de 15 ml do mesmo aroma (dá também para perfumar os tapetes).",
+  "detalhes": [
+    "3 flores em pó cerâmico perfumado",
+    "Recarga de 15 ml"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "caixa-tres-flores-perfumadas-1",
+      "alt": "Caixa verde-salva aberta com flor em pó cerâmico e recarga"
+    },
+    {
+      "ficheiro": "caixa-tres-flores-perfumadas-2",
+      "alt": "Três caixas com flores perfumadas"
+    },
+    {
+      "ficheiro": "caixa-tres-flores-perfumadas-3",
+      "alt": "Flor em pó cerâmico perfumado dentro da caixa"
+    }
+  ],
+  "ordem": 43
+}

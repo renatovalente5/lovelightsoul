@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "lembrancas",
+    "nome": "Lembranças",
+    "frase": "Para entregar aos convidados, com o nome e a data no cartão.",
+    "foto": "categoria-lembrancas"
+  },
+  {
+    "slug": "velas",
+    "nome": "Velas",
+    "frase": "Cera de soja 100 %, pavio de madeira ou de algodão, o aroma à escolha.",
+    "foto": "categoria-velas"
+  },
+  {
+    "slug": "caixas-de-flores",
+    "nome": "Caixas de flores",
+    "frase": "Flores de cera de soja perfumadas e flores preservadas, que não murcham.",
+    "foto": "categoria-caixas-de-flores"
+  },
+  {
+    "slug": "presentes",
+    "nome": "Presentes",
+    "frase": "Coffrets para a mãe, os padrinhos, os avós e quem ensina os nossos filhos.",
+    "foto": "categoria-presentes"
+  },
+  {
+    "slug": "casa",
+    "nome": "Casa e aroma",
+    "frase": "Difusores, spray de tecidos, waxmelts e saquetas para perfumar a casa.",
+    "foto": "categoria-casa"
+  },
+  {
+    "slug": "natal",
+    "nome": "Natal",
+    "frase": "A coleção de Natal 2026: coffrets verdes com o logótipo a dourado.",
+    "foto": "categoria-natal"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "nome": "Ambientador de carro",
+  "categoria": "lembrancas",
+  "ocasioes": [
+    "comunhao",
+    "empresas"
+  ],
+  "resumo": "Ambientador de carro perfumado, também para oferecer em eventos.",
+  "descricao": "O ambientador de carro que tem sido um sucesso, agora também como lembrança para os homens da família.",
+  "detalhes": [
+    "Para o carro ou o escritório"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": "lembranças",
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "ambientador-de-carro-1",
+      "alt": "Ambientadores de carro com cartão da Profissão de Fé"
+    },
+    {
+      "ficheiro": "ambientador-de-carro-2",
+      "alt": "Ambientadores de carro preparados como lembrança"
+    }
+  ],
+  "ordem": 16
+}

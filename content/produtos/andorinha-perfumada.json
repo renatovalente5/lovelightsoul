@@ -1,0 +1,40 @@
+{
+  "nome": "Andorinha perfumada",
+  "categoria": "lembrancas",
+  "ocasioes": [
+    "casamento",
+    "batizado"
+  ],
+  "resumo": "Andorinha em pó cerâmico perfumado, com etiqueta ou cartão.",
+  "descricao": "Oferecer uma andorinha é desejar boa sorte e um regresso a um lugar seguro e feliz. Em pó cerâmico perfumado, com etiqueta das iniciais ou num cartão com a data e uma frase.",
+  "detalhes": [
+    "Pó cerâmico perfumado",
+    "Etiqueta ou cartão personalizado"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": "Iniciais, data ou frase"
+  },
+  "unidade": "lembranças",
+  "destaque": true,
+  "fotos": [
+    {
+      "ficheiro": "andorinha-perfumada-1",
+      "alt": "Andorinha branca em pó cerâmico com etiqueta das iniciais"
+    },
+    {
+      "ficheiro": "andorinha-perfumada-2",
+      "alt": "Andorinhas em pó cerâmico presas a cartões com a data e uma frase"
+    },
+    {
+      "ficheiro": "andorinha-perfumada-3",
+      "alt": "Cartões com andorinhas perfumadas, lado a lado"
+    },
+    {
+      "ficheiro": "andorinha-perfumada-4",
+      "alt": "Andorinhas perfumadas para um batizado"
+    }
+  ],
+  "ordem": 5
+}

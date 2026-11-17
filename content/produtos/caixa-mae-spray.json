@@ -1,0 +1,29 @@
+{
+  "nome": "Caixa Mãe com spray",
+  "categoria": "presentes",
+  "ocasioes": [],
+  "resumo": "Spray de tecidos de 250 ml e uma peça «mãe com filho ao colo».",
+  "descricao": "Caixa com o logótipo e fita de cetim rosa, coração em acrílico dourado «Adoro-te Mãe», spray de tecidos de 250 ml (floral ou talco) e uma peça em pó cerâmico perfumado de uma mãe com o filho ao colo.",
+  "detalhes": [
+    "Spray de tecidos de 250 ml",
+    "Peça em pó cerâmico perfumado (100 g)"
+  ],
+  "escolhas": {
+    "aroma": false,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "caixa-mae-spray-1",
+      "alt": "Spray de tecidos «Feliz Dia da Mãe» e peça mãe com filho, junto à caixa"
+    },
+    {
+      "ficheiro": "caixa-mae-spray-2",
+      "alt": "Peça em pó cerâmico de uma mãe com o filho ao colo"
+    }
+  ],
+  "ordem": 40
+}

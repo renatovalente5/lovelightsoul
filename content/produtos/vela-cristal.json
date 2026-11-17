@@ -1,0 +1,38 @@
+{
+  "nome": "Vela cristal",
+  "categoria": "velas",
+  "ocasioes": [],
+  "resumo": "Vela de soja em copo cristal, a mais pedida.",
+  "descricao": "A nossa vela cristal é das mais pedidas: elegante e requintada, fica bem em qualquer casa. Cera de soja com pavio de madeira, em copo cristal; pode levar a fita ou a medalha personalizada.",
+  "detalhes": [
+    "Cera de soja 100 %",
+    "Pavio de madeira",
+    "90 g, 125 g ou 200 g"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": "Frase para a fita ou medalha (opcional)"
+  },
+  "unidade": null,
+  "destaque": true,
+  "fotos": [
+    {
+      "ficheiro": "vela-cristal-1",
+      "alt": "Vela cristal com pavio de madeira, em copo de vidro canelado"
+    },
+    {
+      "ficheiro": "vela-cristal-2",
+      "alt": "Vela cristal com tampa lapidada, sobre tabuleiro de madeira"
+    },
+    {
+      "ficheiro": "vela-cristal-3",
+      "alt": "Vela cristal com tampa, da coleção «Cristal collection»"
+    },
+    {
+      "ficheiro": "vela-cristal-4",
+      "alt": "Vela cristal aberta, com a tampa ao lado"
+    }
+  ],
+  "ordem": 19
+}

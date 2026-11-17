@@ -1,0 +1,30 @@
+{
+  "nome": "Lembranças com o logótipo",
+  "categoria": "lembrancas",
+  "ocasioes": [
+    "empresas"
+  ],
+  "resumo": "Peças e frascos com o logótipo da empresa, para clientes e equipas.",
+  "descricao": "Moldes de pó cerâmico e frascos personalizados com o logótipo da empresa, o nome ou um desenho próprio, para oferecer a clientes e colaboradores.",
+  "detalhes": [
+    "Logótipo, nome ou desenho próprio"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": "Logótipo ou texto (envie por mensagem)"
+  },
+  "unidade": "peças",
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "lembrancas-com-logotipo-1",
+      "alt": "Frascos perfumados personalizados com o logótipo de uma empresa"
+    },
+    {
+      "ficheiro": "lembrancas-com-logotipo-2",
+      "alt": "Velas personalizadas para oferecer a colaboradores e clientes"
+    }
+  ],
+  "ordem": 18
+}

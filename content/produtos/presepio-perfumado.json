@@ -1,0 +1,25 @@
+{
+  "nome": "Presépio perfumado",
+  "categoria": "natal",
+  "ocasioes": [],
+  "resumo": "Presépio em pó cerâmico perfumado (8 × 10 cm), em caixa.",
+  "descricao": "Um presépio em pó cerâmico perfumado com o aroma «Royal Orchid», com 8 × 10 cm, numa caixa verde com o logótipo.",
+  "detalhes": [
+    "8 × 10 cm",
+    "Aroma «Royal Orchid»"
+  ],
+  "escolhas": {
+    "aroma": false,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "presepio-perfumado-1",
+      "alt": "Presépio branco em pó cerâmico dentro da caixa verde"
+    }
+  ],
+  "ordem": 65
+}

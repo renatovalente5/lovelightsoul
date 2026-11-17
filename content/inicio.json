@@ -1,0 +1,34 @@
+{
+  "capa": {
+    "etiqueta": "Coleção de Natal 2026",
+    "titulo": "Este Natal, ofereça luz.",
+    "texto": "Coffrets, velas de cera de soja e peças perfumadas, feitos à mão, um a um. E, todo o ano, lembranças para batizados, comunhões e casamentos.",
+    "botao": { "texto": "Ver a coleção de Natal", "href": "/criacoes/natal/" }
+  },
+  "natal": {
+    "etiqueta": "Natal 2026",
+    "titulo": "Coffrets de Natal",
+    "texto": "Caixas verdes com o logótipo gravado a dourado e uma frase por dentro: «Natal é tempo de celebrar o amor, fortalecer a união e criar memórias que ficam para sempre.»",
+    "pecas": ["coffret-golden-essence", "coffret-golden-ritual", "coffret-golden-splendour", "coffret-golden-crystal"]
+  },
+  "lembrancas": {
+    "titulo": "Lembranças para cada ocasião",
+    "texto": "Com o nome e a data no cartão, para entregar aos convidados.",
+    "populares": ["anjinho-na-campanula", "mini-vela-com-gipsofila", "asas-perfumadas", "coracao-perfumado"]
+  },
+  "historia": {
+    "titulo": "Uma vela acesa todos os dias",
+    "texto": [
+      "Quando o meu pai partiu, comecei a acender uma vela todos os dias. Um dia decidi fazê-las eu: foi a minha forma de ter luz e de lhe dar luz.",
+      "A Love Light & Soul nasceu a 17 de fevereiro de 2024, no dia de anos dele. Amor, luz e alma: é o que ponho em cada peça."
+    ],
+    "assinatura": "Marta Sousa",
+    "foto": "historia-cera"
+  },
+  "factos": [
+    { "titulo": "100 % cera de soja", "texto": "Velas vegetais, com pavio de madeira ou de algodão.", "icone": "vela" },
+    { "titulo": "Pó cerâmico, não gesso", "texto": "Peças mais resistentes, com um toque aveludado.", "icone": "folha" },
+    { "titulo": "Personalizado", "texto": "Nomes, datas e frases a dourado, na peça ou no cartão.", "icone": "pena" },
+    { "titulo": "Envio para todo o mundo", "texto": "Por transportadora, bem embalado.", "icone": "caixa" }
+  ]
+}

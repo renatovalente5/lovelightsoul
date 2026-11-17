@@ -1,0 +1,36 @@
+{
+  "nome": "Árvore de Natal em cera",
+  "categoria": "natal",
+  "ocasioes": [],
+  "resumo": "Árvore de Natal em cera de soja, em verde, branco ou com folha de ouro.",
+  "descricao": "Árvores de Natal em cera de soja, para decorar a casa: verde, branca, com efeito neve, com folha de ouro ou com aroma de café torrado.",
+  "detalhes": [
+    "Cera de soja 100 %"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "arvore-de-natal-em-cera-1",
+      "alt": "Árvore de Natal verde em cera de soja com folha de ouro"
+    },
+    {
+      "ficheiro": "arvore-de-natal-em-cera-2",
+      "alt": "Árvores de Natal em cera em tons de verde"
+    },
+    {
+      "ficheiro": "arvore-de-natal-em-cera-3",
+      "alt": "Árvore de Natal com efeito neve"
+    },
+    {
+      "ficheiro": "arvore-de-natal-em-cera-4",
+      "alt": "Árvores de Natal em tons de terracota e areia"
+    }
+  ],
+  "ordem": 66
+}

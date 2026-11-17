@@ -1,0 +1,47 @@
+{
+  "nome": "Vela de copo com o nome",
+  "categoria": "lembrancas",
+  "ocasioes": [
+    "batizado",
+    "comunhao",
+    "aniversario"
+  ],
+  "resumo": "Vela de soja em copo de vidro, com o rótulo do evento.",
+  "descricao": "Uma vela de cera de soja em copo de vidro, com o rótulo desenhado para o dia (nome, data e motivos a combinar), gipsófila e laço por cima.",
+  "detalhes": [
+    "Cera de soja 100 %",
+    "Rótulo personalizado"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": [
+      "Beje",
+      "Rosa velho",
+      "Azul-bebé",
+      "Verde-salva",
+      "Branco"
+    ],
+    "texto": "Nome, data e frase para o rótulo"
+  },
+  "unidade": "lembranças",
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "vela-de-copo-com-nome-1",
+      "alt": "Velas do batizado com o nome e a data no rótulo, laço verde-salva"
+    },
+    {
+      "ficheiro": "vela-de-copo-com-nome-2",
+      "alt": "Duas velas da Primeira Comunhão com o nome de cada criança"
+    },
+    {
+      "ficheiro": "vela-de-copo-com-nome-3",
+      "alt": "Velas do 14.º aniversário com rótulo floral e laço rosa"
+    },
+    {
+      "ficheiro": "vela-de-copo-com-nome-4",
+      "alt": "Vela do batizado vista de perto"
+    }
+  ],
+  "ordem": 4
+}

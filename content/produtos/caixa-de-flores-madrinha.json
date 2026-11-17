@@ -1,0 +1,33 @@
+{
+  "nome": "Caixa de flores Madrinha",
+  "categoria": "caixas-de-flores",
+  "ocasioes": [
+    "batizado",
+    "comunhao",
+    "casamento"
+  ],
+  "resumo": "Caixa redonda com flores de soja perfumadas e a placa «Madrinha».",
+  "descricao": "Uma caixa redonda com flores de cera de soja perfumadas e flores preservadas, com a placa «Madrinha» e uma medalha dourada. As cores escolhem-se.",
+  "detalhes": [
+    "Flores de cera de soja perfumadas",
+    "Flores preservadas"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": "Mensagem da placa"
+  },
+  "unidade": null,
+  "destaque": true,
+  "fotos": [
+    {
+      "ficheiro": "caixa-de-flores-madrinha-1",
+      "alt": "Caixa de flores em tons de lilás com a placa «Madrinha»"
+    },
+    {
+      "ficheiro": "caixa-de-flores-madrinha-2",
+      "alt": "Caixa de flores rosa com a placa «Madrinha»"
+    }
+  ],
+  "ordem": 31
+}

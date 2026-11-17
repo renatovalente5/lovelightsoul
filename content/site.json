@@ -1,0 +1,35 @@
+{
+  "marca": "Love Light & Soul",
+  "lema": "Amor, luz e alma",
+  "frase": "Velas de cera de soja e peças perfumadas, feitas à mão com amor.",
+  "descricao": "Velas 100 % de cera de soja, lembranças em pó cerâmico perfumado para batizados, comunhões e casamentos, caixas de flores e presentes, feitos à mão por Marta Sousa.",
+  "titulo": "Love Light & Soul — velas de soja e lembranças perfumadas, feitas à mão",
+  "redes": {
+    "instagram": "https://www.instagram.com/lovelightsoulsoycandles/",
+    "instagramUtilizador": "lovelightsoulsoycandles",
+    "facebook": "https://www.facebook.com/profile.php?id=61556162805671",
+    "facebookNome": "LoveLight&Soul"
+  },
+  "contactos": {
+    "mensagemInstagram": "https://ig.me/m/lovelightsoulsoycandles",
+    "whatsapp": null,
+    "telefone": null,
+    "email": null
+  },
+  "encomendas": {
+    "envio": "Envio por transportadora para todo o mundo.",
+    "atendimento": "Atendimento presencial por marcação, para escolher as peças e sentir os aromas.",
+    "prazo": "As peças são feitas à mão, uma a uma: encomende com tempo.",
+    "pagamento": null,
+    "zona": null
+  },
+  "empresa": {
+    "nome": null,
+    "tipo": null,
+    "nif": null,
+    "morada": null,
+    "codigoPostal": null,
+    "localidade": null
+  },
+  "nascimento": "2024-02-17"
+}

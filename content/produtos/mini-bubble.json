@@ -1,0 +1,36 @@
+{
+  "nome": "Mini bubble",
+  "categoria": "lembrancas",
+  "ocasioes": [
+    "comunhao",
+    "batizado"
+  ],
+  "resumo": "Pequena vela bubble em cera de soja, com cartão personalizado.",
+  "descricao": "Uma pequena vela bubble em cera de soja, simples e elegante, com um cartão premium personalizado.",
+  "detalhes": [
+    "Cera de soja 100 %",
+    "Cartão premium personalizado"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": "Mensagem para o cartão"
+  },
+  "unidade": "lembranças",
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "mini-bubble-1",
+      "alt": "Mini bubbles em tons pastel com cartão personalizado"
+    },
+    {
+      "ficheiro": "mini-bubble-2",
+      "alt": "Mini bubbles para uma comunhão solene"
+    },
+    {
+      "ficheiro": "mini-bubble-3",
+      "alt": "Mini bubble numa caixinha com cartão"
+    }
+  ],
+  "ordem": 13
+}

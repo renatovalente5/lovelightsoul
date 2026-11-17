@@ -1,0 +1,41 @@
+{
+  "nome": "Caixa de flores Padrinhos",
+  "categoria": "caixas-de-flores",
+  "ocasioes": [
+    "batizado",
+    "comunhao",
+    "casamento"
+  ],
+  "resumo": "Caixa redonda com flores de soja e a placa «Padrinho» ou «Padrinhos».",
+  "descricao": "Flores de cera de soja perfumadas e flores preservadas numa caixa redonda, com a placa «Padrinho» ou «Padrinhos». Pode levar um passarinho perfumado.",
+  "detalhes": [
+    "Flores de cera de soja perfumadas",
+    "Flores preservadas"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": "Mensagem da placa"
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "caixa-de-flores-padrinhos-1",
+      "alt": "Caixa de flores em tons de azul com a placa «Padrinho»"
+    },
+    {
+      "ficheiro": "caixa-de-flores-padrinhos-2",
+      "alt": "Caixa maior e texturada com flores verdes e a placa «Padrinhos»"
+    },
+    {
+      "ficheiro": "caixa-de-flores-padrinhos-3",
+      "alt": "Caixa de flores com passarinho perfumado e laço verde"
+    },
+    {
+      "ficheiro": "caixa-de-flores-padrinhos-4",
+      "alt": "Caixa com tulipas e peónias de cera em lilás"
+    }
+  ],
+  "ordem": 32
+}

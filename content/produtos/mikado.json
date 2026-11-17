@@ -1,0 +1,37 @@
+{
+  "nome": "Mikado",
+  "categoria": "casa",
+  "ocasioes": [],
+  "resumo": "Difusor de varetas de 50 ml ou 100 ml, com o vosso aroma preferido.",
+  "descricao": "O mikado espalha o aroma pela casa. Em frasco de 50 ml ou no frasco «elegance» de 100 ml; o aroma mais pedido é a orquídea preta e lírio.",
+  "detalhes": [
+    "50 ml ou 100 ml",
+    "Produto artesanal: pode demorar uns dias"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": true,
+  "fotos": [
+    {
+      "ficheiro": "mikado-1",
+      "alt": "Mikado com flor de madeira num frasco quadrado"
+    },
+    {
+      "ficheiro": "mikado-2",
+      "alt": "Mikado no frasco «elegance» de 100 ml"
+    },
+    {
+      "ficheiro": "mikado-3",
+      "alt": "Mikado de 50 ml"
+    },
+    {
+      "ficheiro": "mikado-4",
+      "alt": "Mikado no frasco novo"
+    }
+  ],
+  "ordem": 48
+}

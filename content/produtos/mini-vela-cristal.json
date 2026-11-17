@@ -1,0 +1,43 @@
+{
+  "nome": "Mini vela cristal",
+  "categoria": "lembrancas",
+  "ocasioes": [
+    "batizado",
+    "bodas",
+    "casamento"
+  ],
+  "resumo": "Mini vela de soja num copo cristal com tampa, laço de seda.",
+  "descricao": "Uma mini vela de cera de soja num copo cristal com tampa e laço. Depois de queimada, o copo serve de tea light.",
+  "detalhes": [
+    "Cera de soja 100 %",
+    "Copo cristal com tampa"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": [
+      "Beje",
+      "Rosa velho",
+      "Azul-bebé",
+      "Verde-salva",
+      "Branco"
+    ],
+    "texto": "Nome e data para a medalha ou etiqueta"
+  },
+  "unidade": "lembranças",
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "mini-vela-cristal-1",
+      "alt": "Mini velas em copo cristal com tampa e laço beje"
+    },
+    {
+      "ficheiro": "mini-vela-cristal-2",
+      "alt": "Velas cristal escolhidas para um batizado"
+    },
+    {
+      "ficheiro": "mini-vela-cristal-3",
+      "alt": "Mini vela cristal acesa"
+    }
+  ],
+  "ordem": 14
+}

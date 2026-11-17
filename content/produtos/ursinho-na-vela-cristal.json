@@ -1,0 +1,42 @@
+{
+  "nome": "Ursinho na vela cristal",
+  "categoria": "lembrancas",
+  "ocasioes": [
+    "batizado"
+  ],
+  "resumo": "Mini vela em copo cristal com um ursinho perfumado por cima.",
+  "descricao": "Uma mini vela de cera de soja em copo cristal, com um ursinho em pó cerâmico perfumado sentado por cima. Embalada em organza, com a etiqueta do evento.",
+  "detalhes": [
+    "Vela de cera de soja",
+    "Ursinho em pó cerâmico perfumado",
+    "Saquinho de organza"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": [
+      "Beje",
+      "Rosa velho",
+      "Azul-bebé",
+      "Verde-salva",
+      "Branco"
+    ],
+    "texto": "Nome e data para a etiqueta"
+  },
+  "unidade": "lembranças",
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "ursinho-na-vela-cristal-1",
+      "alt": "Ursinhos brancos com laço azul sobre mini velas em copo cristal"
+    },
+    {
+      "ficheiro": "ursinho-na-vela-cristal-2",
+      "alt": "Ursinho sobre vela cristal embalado em organza com etiqueta"
+    },
+    {
+      "ficheiro": "ursinho-na-vela-cristal-3",
+      "alt": "Ursinhos em pó cerâmico sobre mini velas, prontos a embalar"
+    }
+  ],
+  "ordem": 2
+}

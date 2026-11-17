@@ -1,0 +1,32 @@
+{
+  "nome": "Girassol perfumado",
+  "categoria": "lembrancas",
+  "ocasioes": [
+    "comunhao",
+    "aniversario"
+  ],
+  "resumo": "Girassol em pó cerâmico perfumado, num cartão com o nome.",
+  "descricao": "Um girassol em pó cerâmico perfumado, num cartão desenhado para o dia com o nome e a data.",
+  "detalhes": [
+    "Pó cerâmico perfumado",
+    "Cartão personalizado"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": "Nome e data para o cartão"
+  },
+  "unidade": "lembranças",
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "girassol-perfumado-1",
+      "alt": "Girassóis perfumados em cartões amarelos da Profissão de Fé"
+    },
+    {
+      "ficheiro": "girassol-perfumado-2",
+      "alt": "Cartão com girassol perfumado e o nome Helena"
+    }
+  ],
+  "ordem": 9
+}

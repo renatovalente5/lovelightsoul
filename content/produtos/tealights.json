@@ -1,0 +1,25 @@
+{
+  "nome": "Tealights",
+  "categoria": "velas",
+  "ocasioes": [],
+  "resumo": "Caixa de tealights em cera de soja, com cerca de 4 horas de queima.",
+  "descricao": "Pequenos pontos de luz para o ambiente ou para perfumar. Cada tealight queima em média 4 horas; por ser 100 % vegetal, a cor da cera pode mudar depois de queimada.",
+  "detalhes": [
+    "Cera de soja 100 %",
+    "Cerca de 4 horas de queima cada"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "tealights-1",
+      "alt": "Caixa com seis tealights em cera de soja"
+    }
+  ],
+  "ordem": 30
+}

@@ -1,0 +1,32 @@
+{
+  "nome": "Saco Adoro-te Mãe",
+  "categoria": "presentes",
+  "ocasioes": [],
+  "resumo": "Saco de algodão com uma peça perfumada «Adoro-te Mãe» ou uma camélia.",
+  "descricao": "Saco de algodão com chapinha em acrílico dourado «Adoro-te Mãe» e uma peça em pó cerâmico perfumado com as letras pintadas, ou uma camélia, com laço de chiffon rosa.",
+  "detalhes": [
+    "Pó cerâmico perfumado (Lux Orchid ou talco)"
+  ],
+  "escolhas": {
+    "aroma": false,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "saco-adoro-te-mae-1",
+      "alt": "Peça redonda com monograma «M» e laço rosa"
+    },
+    {
+      "ficheiro": "saco-adoro-te-mae-2",
+      "alt": "Saco de algodão florido com a peça perfumada"
+    },
+    {
+      "ficheiro": "saco-adoro-te-mae-3",
+      "alt": "Camélia em pó cerâmico perfumado com laço rosa"
+    }
+  ],
+  "ordem": 41
+}

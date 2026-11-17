@@ -1,0 +1,30 @@
+{
+  "nome": "Vela Gold",
+  "categoria": "velas",
+  "ocasioes": [],
+  "resumo": "Vela de soja em copo dourado com o logótipo gravado.",
+  "descricao": "A vela Gold: copo dourado com o logótipo gravado, cera de soja e pavio de madeira. Simples e elegante, para qualquer divisão da casa.",
+  "detalhes": [
+    "Cera de soja 100 %",
+    "Pavio de madeira",
+    "250 g"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": "Mensagem gravada (opcional)"
+  },
+  "unidade": null,
+  "destaque": true,
+  "fotos": [
+    {
+      "ficheiro": "vela-gold-1",
+      "alt": "Vela Gold acesa, em copo dourado com o logótipo"
+    },
+    {
+      "ficheiro": "vela-gold-2",
+      "alt": "Vela Gold com «Feliz Natal» gravado"
+    }
+  ],
+  "ordem": 20
+}

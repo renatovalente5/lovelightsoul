@@ -1,0 +1,28 @@
+{
+  "nome": "Rena perfumada",
+  "categoria": "natal",
+  "ocasioes": [],
+  "resumo": "Rena em pó cerâmico perfumado, com laço verde e guizo.",
+  "descricao": "A nossa rena em pó cerâmico perfumado, com laço verde e guizo: linda como peça decorativa.",
+  "detalhes": [
+    "Pó cerâmico perfumado"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "rena-perfumada-1",
+      "alt": "Rena branca em pó cerâmico com laço verde e guizo"
+    },
+    {
+      "ficheiro": "rena-perfumada-2",
+      "alt": "Renas perfumadas alinhadas"
+    }
+  ],
+  "ordem": 67
+}

@@ -1,0 +1,31 @@
+{
+  "nome": "Caixa de flores Parabéns",
+  "categoria": "caixas-de-flores",
+  "ocasioes": [
+    "aniversario"
+  ],
+  "resumo": "Caixa redonda com flores de soja em tons pastel e o topo «Parabéns».",
+  "descricao": "A caixa «Parabéns», com flores de cera de soja perfumadas e flores preservadas em tons pastel.",
+  "detalhes": [
+    "Flores de cera de soja perfumadas",
+    "Flores preservadas"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": true,
+  "fotos": [
+    {
+      "ficheiro": "caixa-de-flores-parabens-1",
+      "alt": "Caixa de flores em tons pastel com o topo dourado «Parabéns»"
+    },
+    {
+      "ficheiro": "caixa-de-flores-parabens-2",
+      "alt": "Caixa de flores «Parabéns» segura na mão"
+    }
+  ],
+  "ordem": 33
+}

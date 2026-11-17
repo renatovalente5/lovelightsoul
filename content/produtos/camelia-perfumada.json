@@ -1,0 +1,41 @@
+{
+  "nome": "Camélia perfumada",
+  "categoria": "lembrancas",
+  "ocasioes": [
+    "casamento",
+    "comunhao"
+  ],
+  "resumo": "Camélia em pó cerâmico perfumado, para perfumar gavetas ou o carro.",
+  "descricao": "Uma camélia em pó cerâmico perfumado. Depois do evento, perfuma as gavetas, o roupeiro ou o carro.",
+  "detalhes": [
+    "Pó cerâmico perfumado"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": [
+      "Beje",
+      "Rosa velho",
+      "Azul-bebé",
+      "Verde-salva",
+      "Branco"
+    ],
+    "texto": null
+  },
+  "unidade": "lembranças",
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "camelia-perfumada-1",
+      "alt": "Camélias perfumadas com laço, preparadas para um evento"
+    },
+    {
+      "ficheiro": "camelia-perfumada-2",
+      "alt": "Camélias em pó cerâmico perfumado"
+    },
+    {
+      "ficheiro": "camelia-perfumada-3",
+      "alt": "Camélias perfumadas sobre a mesa"
+    }
+  ],
+  "ordem": 8
+}

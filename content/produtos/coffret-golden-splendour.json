@@ -1,0 +1,38 @@
+{
+  "nome": "Coffret Golden Splendour",
+  "categoria": "natal",
+  "ocasioes": [],
+  "resumo": "Bola de Natal em pó cerâmico com folha de ouro (100 g) e recarga.",
+  "descricao": "Caixa PREMIUM verde Natal com o logótipo gravado a dourado e a frase de Natal por dentro. Leva uma bola de Natal em pó cerâmico perfumado, branca com folha de ouro e laço dourado, com vela de cera de soja (100 g), e uma recarga de cera com a tira «Feliz Natal».",
+  "detalhes": [
+    "Bola em pó cerâmico perfumado",
+    "Vela de 100 g",
+    "Recarga de cera"
+  ],
+  "escolhas": {
+    "aroma": false,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": true,
+  "fotos": [
+    {
+      "ficheiro": "coffret-golden-splendour-1",
+      "alt": "Bola de Natal branca com folha de ouro e laço dourado"
+    },
+    {
+      "ficheiro": "coffret-golden-splendour-2",
+      "alt": "Caixa verde Golden Splendour"
+    },
+    {
+      "ficheiro": "coffret-golden-splendour-3",
+      "alt": "Bola de Natal vista de perto"
+    },
+    {
+      "ficheiro": "coffret-golden-splendour-4",
+      "alt": "Recarga de vela com «Feliz Natal»"
+    }
+  ],
+  "ordem": 58
+}

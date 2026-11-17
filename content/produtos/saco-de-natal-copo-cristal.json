@@ -1,0 +1,29 @@
+{
+  "nome": "Saco de Natal com copo de cristal",
+  "categoria": "natal",
+  "ocasioes": [],
+  "resumo": "Saco de tecido de Natal com vela em copo de cristal (125 g).",
+  "descricao": "Saco de tecido com padrão de Natal, fita verde e medalha «Feliz Natal» em forma de sino, com um copo de cristal com adorno na tampa e vela de cera de soja (125 g).",
+  "detalhes": [
+    "125 g",
+    "Aroma aleatório"
+  ],
+  "escolhas": {
+    "aroma": false,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "saco-de-natal-copo-cristal-1",
+      "alt": "Copo de cristal com vela e o saco de tecido de Natal"
+    },
+    {
+      "ficheiro": "saco-de-natal-copo-cristal-2",
+      "alt": "Vela em copo de cristal com tampa"
+    }
+  ],
+  "ordem": 63
+}

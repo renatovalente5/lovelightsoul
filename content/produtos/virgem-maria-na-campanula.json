@@ -1,0 +1,29 @@
+{
+  "nome": "Virgem Maria na campânula",
+  "categoria": "casa",
+  "ocasioes": [],
+  "resumo": "Imagem de Nossa Senhora em pó cerâmico perfumado, numa campânula.",
+  "descricao": "Uma imagem de Nossa Senhora em pó cerâmico perfumado, numa campânula de vidro com base de madeira.",
+  "detalhes": [
+    "Pó cerâmico perfumado",
+    "Campânula de vidro"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "virgem-maria-na-campanula-1",
+      "alt": "Virgem Maria em pó cerâmico numa campânula de vidro"
+    },
+    {
+      "ficheiro": "virgem-maria-na-campanula-2",
+      "alt": "Placa redonda com Nossa Senhora em relevo, em pó cerâmico"
+    }
+  ],
+  "ordem": 55
+}

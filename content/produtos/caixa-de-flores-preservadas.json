@@ -1,0 +1,25 @@
+{
+  "nome": "Caixa de flores preservadas",
+  "categoria": "caixas-de-flores",
+  "ocasioes": [],
+  "resumo": "Caixa redonda com peónias de soja e flores preservadas, sem placa.",
+  "descricao": "Peónias e rosas de cera de soja perfumadas com flores preservadas, numa caixa redonda com fita de seda.",
+  "detalhes": [
+    "Flores de cera de soja perfumadas",
+    "Flores preservadas"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "caixa-de-flores-preservadas-1",
+      "alt": "Caixa com peónias rosa e brancas e flores preservadas"
+    }
+  ],
+  "ordem": 34
+}

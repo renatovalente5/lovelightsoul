@@ -1,0 +1,45 @@
+{
+  "nome": "Coração perfumado",
+  "categoria": "lembrancas",
+  "ocasioes": [
+    "bodas",
+    "casamento",
+    "empresas"
+  ],
+  "resumo": "Coração em pó cerâmico perfumado, num cartão ou em organza.",
+  "descricao": "Um coração em pó cerâmico perfumado, preso a um cartão com a data e uma frase ou num saquinho de organza. Para bodas, pode levar as alianças pintadas a dourado.",
+  "detalhes": [
+    "Pó cerâmico perfumado",
+    "Alianças ou letras a dourado (opcional)"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": "Data, nomes ou frase"
+  },
+  "unidade": "lembranças",
+  "destaque": true,
+  "fotos": [
+    {
+      "ficheiro": "coracao-perfumado-1",
+      "alt": "Corações perfumados com laço, presos a cartões com a data"
+    },
+    {
+      "ficheiro": "coracao-perfumado-2",
+      "alt": "Coração perfumado com alianças a dourado, em organza, para bodas de ouro"
+    },
+    {
+      "ficheiro": "coracao-perfumado-3",
+      "alt": "Caixinhas com corações perfumados e laço dourado"
+    },
+    {
+      "ficheiro": "coracao-perfumado-4",
+      "alt": "Corações em saquinhos de organza com etiqueta"
+    },
+    {
+      "ficheiro": "coracao-perfumado-5",
+      "alt": "Cartões com corações perfumados lado a lado"
+    }
+  ],
+  "ordem": 7
+}

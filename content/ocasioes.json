@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "batizado",
+    "nome": "Batizado",
+    "foto": "ocasiao-batizado"
+  },
+  {
+    "slug": "comunhao",
+    "nome": "Comunhão",
+    "frase": "Primeira Comunhão, Profissão de Fé e Crisma.",
+    "foto": "ocasiao-comunhao"
+  },
+  {
+    "slug": "casamento",
+    "nome": "Casamento",
+    "foto": "ocasiao-casamento"
+  },
+  {
+    "slug": "bodas",
+    "nome": "Bodas",
+    "frase": "Bodas de prata e de ouro.",
+    "foto": "ocasiao-bodas"
+  },
+  {
+    "slug": "aniversario",
+    "nome": "Aniversário",
+    "foto": "ocasiao-aniversario"
+  },
+  {
+    "slug": "empresas",
+    "nome": "Empresas",
+    "frase": "Lembranças com o logótipo, para clientes e equipas.",
+    "foto": "ocasiao-empresas"
+  }
+]

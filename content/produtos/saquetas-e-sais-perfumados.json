@@ -1,0 +1,32 @@
+{
+  "nome": "Saquetas e sais perfumados",
+  "categoria": "casa",
+  "ocasioes": [],
+  "resumo": "Saco de linho bordado com sais perfumados, para gavetas e armários.",
+  "descricao": "Um saco de linho bordado com sais perfumados, para colocar nas gavetas e nos armários. Também há saquetas com laranja desidratada, raspa de laranja e pau de canela.",
+  "detalhes": [
+    "Para gavetas e armários"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "saquetas-e-sais-perfumados-1",
+      "alt": "Saco de linho bordado com o logótipo e sais perfumados"
+    },
+    {
+      "ficheiro": "saquetas-e-sais-perfumados-2",
+      "alt": "Saquetas com laranja desidratada e pau de canela"
+    },
+    {
+      "ficheiro": "saquetas-e-sais-perfumados-3",
+      "alt": "Saquetas de algodão «Explosão floral»"
+    }
+  ],
+  "ordem": 50
+}

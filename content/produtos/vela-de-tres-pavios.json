@@ -1,0 +1,26 @@
+{
+  "nome": "Vela de três pavios",
+  "categoria": "velas",
+  "ocasioes": [],
+  "resumo": "Vela grande de três pavios em copo dourado, com mais de 650 g.",
+  "descricao": "Uma vela com mais de 650 g de cera de soja e três pavios, num copo dourado texturado: marcante e luxuosa, para ter em casa ou oferecer.",
+  "detalhes": [
+    "Cera de soja 100 %",
+    "Três pavios",
+    "Mais de 650 g"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "vela-de-tres-pavios-1",
+      "alt": "Vela de três pavios acesa num copo dourado texturado"
+    }
+  ],
+  "ordem": 21
+}

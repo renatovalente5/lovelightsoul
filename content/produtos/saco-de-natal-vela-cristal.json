@@ -1,0 +1,29 @@
+{
+  "nome": "Saco de Natal com vela cristal",
+  "categoria": "natal",
+  "ocasioes": [],
+  "resumo": "Saco de tecido de Natal com vela cristal (90 g), laço verde e pingente.",
+  "descricao": "Saco de tecido com padrão de Natal, fita verde e medalha «Feliz Natal» em forma de sino, com uma vela cristal de cera de soja (90 g), laço verde e pingente dourado.",
+  "detalhes": [
+    "90 g",
+    "Aroma aleatório"
+  ],
+  "escolhas": {
+    "aroma": false,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "saco-de-natal-vela-cristal-1",
+      "alt": "Saco de tecido de Natal com sino dourado e velas cristal"
+    },
+    {
+      "ficheiro": "saco-de-natal-vela-cristal-2",
+      "alt": "Velas cristal com laço verde e o saco de Natal"
+    }
+  ],
+  "ordem": 62
+}

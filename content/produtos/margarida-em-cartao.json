@@ -1,0 +1,36 @@
+{
+  "nome": "Margarida em cartão",
+  "categoria": "lembrancas",
+  "ocasioes": [
+    "aniversario",
+    "empresas"
+  ],
+  "resumo": "Margarida em pó cerâmico perfumado num cartão de 15 × 9 cm.",
+  "descricao": "Uma margarida em pó cerâmico perfumado num cartão personalizado (15 × 9 cm), para presentear alguém especial ou perfumar uma gaveta.",
+  "detalhes": [
+    "Pó cerâmico perfumado",
+    "Cartão de 15 × 9 cm"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": "Mensagem para o cartão"
+  },
+  "unidade": "lembranças",
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "margarida-em-cartao-1",
+      "alt": "Margaridas perfumadas em cartões personalizados"
+    },
+    {
+      "ficheiro": "margarida-em-cartao-2",
+      "alt": "Margarida em pó cerâmico num cartão branco"
+    },
+    {
+      "ficheiro": "margarida-em-cartao-3",
+      "alt": "Margaridas em pó cerâmico perfumado"
+    }
+  ],
+  "ordem": 12
+}

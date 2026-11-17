@@ -1,0 +1,34 @@
+{
+  "nome": "Caixa coração",
+  "categoria": "caixas-de-flores",
+  "ocasioes": [
+    "aniversario"
+  ],
+  "resumo": "Caixa em forma de coração com peónias e uma rosa de soja.",
+  "descricao": "Uma caixa em forma de coração com seis peónias e uma rosa de cera de soja. A tampa pode levar a mensagem que quiser (Amo-te, Feliz aniversário, Aceitas casar comigo?).",
+  "detalhes": [
+    "6 peónias e 1 rosa de cera de soja"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": "Mensagem para a tampa"
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "caixa-coracao-1",
+      "alt": "Caixa coração aberta com rosa de cera e gipsófila"
+    },
+    {
+      "ficheiro": "caixa-coracao-2",
+      "alt": "Caixa coração com peónias e uma rosa"
+    },
+    {
+      "ficheiro": "caixa-coracao-3",
+      "alt": "Caixa coração com colar"
+    }
+  ],
+  "ordem": 36
+}

@@ -1,0 +1,40 @@
+{
+  "nome": "Jardim de Afectos",
+  "categoria": "caixas-de-flores",
+  "ocasioes": [
+    "batizado",
+    "comunhao"
+  ],
+  "resumo": "Jarra de cerâmica com flores de soja perfumadas e preservadas.",
+  "descricao": "Uma jarra de cerâmica com flores em cera de soja perfumada e flores preservadas, e uma plaquinha em acrílico dourado («Adoro-vos Padrinhos», «Adoro-te Madrinha»…).",
+  "detalhes": [
+    "Jarra de cerâmica",
+    "Plaquinha em acrílico dourado"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": "Mensagem da plaquinha"
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "jardim-de-afectos-1",
+      "alt": "Jarra branca com flores de cera e preservadas em tons pêssego"
+    },
+    {
+      "ficheiro": "jardim-de-afectos-2",
+      "alt": "Jarra com flores em tons rosa e plaquinha dourada"
+    },
+    {
+      "ficheiro": "jardim-de-afectos-3",
+      "alt": "Jarra com flores em tons verde-salva"
+    },
+    {
+      "ficheiro": "jardim-de-afectos-4",
+      "alt": "Três jarras Jardim de Afectos lado a lado"
+    }
+  ],
+  "ordem": 38
+}

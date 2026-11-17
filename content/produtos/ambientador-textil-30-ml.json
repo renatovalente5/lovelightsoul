@@ -1,0 +1,31 @@
+{
+  "nome": "Ambientador têxtil 30 ml",
+  "categoria": "lembrancas",
+  "ocasioes": [
+    "casamento"
+  ],
+  "resumo": "Frasco de vidro com 30 ml de ambientador têxtil e pérolas.",
+  "descricao": "Um frasco de vidro com 30 ml de ambientador têxtil, com pérolas brancas no fundo. Feito pela primeira vez para o casamento da Vânia e do Pedro.",
+  "detalhes": [
+    "30 ml",
+    "Aroma de talco (ou outro à escolha)"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": "lembranças",
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "ambientador-textil-30-ml-1",
+      "alt": "Frascos de ambientador têxtil com pérolas brancas e etiqueta dos noivos"
+    },
+    {
+      "ficheiro": "ambientador-textil-30-ml-2",
+      "alt": "Ambientadores têxteis alinhados para um casamento"
+    }
+  ],
+  "ordem": 15
+}

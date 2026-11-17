@@ -1,0 +1,37 @@
+{
+  "nome": "Coffret Dia da Mãe",
+  "categoria": "presentes",
+  "ocasioes": [],
+  "resumo": "Caixa premium com vela de pavio em coração e mikado «Adoro-te Mãe».",
+  "descricao": "Caixa PREMIUM com o logótipo gravado a dourado e fita de cetim rosa, com encaixe para a vela e o mikado: uma vela de 120 g de cera de soja com pavio de madeira em forma de coração e um mikado de 50 ml com plaquinha «Adoro-te Mãe».",
+  "detalhes": [
+    "Vela de 120 g",
+    "Mikado de 50 ml (Lux Orchid ou Talk Musk)"
+  ],
+  "escolhas": {
+    "aroma": false,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": true,
+  "fotos": [
+    {
+      "ficheiro": "coffret-dia-da-mae-1",
+      "alt": "Vela e mikado sobre a caixa verde-salva, com flores de cerejeira"
+    },
+    {
+      "ficheiro": "coffret-dia-da-mae-2",
+      "alt": "Caixa premium aberta com a vela e o mikado"
+    },
+    {
+      "ficheiro": "coffret-dia-da-mae-3",
+      "alt": "Vela com pavio de madeira em forma de coração"
+    },
+    {
+      "ficheiro": "coffret-dia-da-mae-4",
+      "alt": "Mikado com a plaquinha dourada «Adoro-te Mãe»"
+    }
+  ],
+  "ordem": 39
+}

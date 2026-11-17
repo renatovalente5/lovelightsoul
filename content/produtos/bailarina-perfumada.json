@@ -1,0 +1,37 @@
+{
+  "nome": "Bailarina perfumada",
+  "categoria": "lembrancas",
+  "ocasioes": [
+    "aniversario",
+    "batizado"
+  ],
+  "resumo": "Bailarina em pó cerâmico perfumado, com laço e saquinho.",
+  "descricao": "Uma bailarina em pó cerâmico perfumado, com laço de cetim. Os laços e os saquinhos são da Segredus Convites.",
+  "detalhes": [
+    "Pó cerâmico perfumado"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": [
+      "Beje",
+      "Rosa velho",
+      "Azul-bebé",
+      "Verde-salva",
+      "Branco"
+    ],
+    "texto": null
+  },
+  "unidade": "lembranças",
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "bailarina-perfumada-1",
+      "alt": "Bailarinas em pó cerâmico perfumado com laço rosa"
+    },
+    {
+      "ficheiro": "bailarina-perfumada-2",
+      "alt": "Bailarina perfumada vista de perto"
+    }
+  ],
+  "ordem": 11
+}

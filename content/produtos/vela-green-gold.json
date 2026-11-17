@@ -1,0 +1,24 @@
+{
+  "nome": "Vela Green Gold",
+  "categoria": "velas",
+  "ocasioes": [],
+  "resumo": "Vela de soja em copo verde canelado com borda dourada.",
+  "descricao": "A vela Green Gold: copo verde canelado com borda dourada. Uma peça elegante que fica bem em qualquer decoração.",
+  "detalhes": [
+    "Cera de soja 100 %"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "vela-green-gold-1",
+      "alt": "Vela em copo verde canelado com borda dourada"
+    }
+  ],
+  "ordem": 22
+}

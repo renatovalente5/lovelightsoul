@@ -1,0 +1,37 @@
+{
+  "nome": "Peça de Natal com mensagem",
+  "categoria": "natal",
+  "ocasioes": [],
+  "resumo": "Peça em pó cerâmico perfumado com uma frase de Natal, em caixa premium.",
+  "descricao": "Caixa PREMIUM com o logótipo a dourado e fita dourada, e uma peça em pó cerâmico perfumado (aroma «Royal Orchid») com as letras pintadas a dourado: para a Professora, a Educadora, a Auxiliar ou com a frase de Natal.",
+  "detalhes": [
+    "Aroma «Royal Orchid»",
+    "Letras pintadas a dourado"
+  ],
+  "escolhas": {
+    "aroma": false,
+    "lacos": null,
+    "texto": "Professora, Educadora, Auxiliar ou a frase de Natal"
+  },
+  "unidade": null,
+  "destaque": true,
+  "fotos": [
+    {
+      "ficheiro": "peca-de-natal-com-mensagem-1",
+      "alt": "Peça perfumada com a frase de Natal numa caixa verde"
+    },
+    {
+      "ficheiro": "peca-de-natal-com-mensagem-2",
+      "alt": "Peça «Feliz Natal para a melhor Professora»"
+    },
+    {
+      "ficheiro": "peca-de-natal-com-mensagem-3",
+      "alt": "Peça «Feliz Natal para a melhor Educadora»"
+    },
+    {
+      "ficheiro": "peca-de-natal-com-mensagem-4",
+      "alt": "Peça «Feliz Natal para a melhor Auxiliar»"
+    }
+  ],
+  "ordem": 64
+}

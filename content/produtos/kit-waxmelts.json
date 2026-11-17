@@ -1,0 +1,29 @@
+{
+  "nome": "Kit waxmelts",
+  "categoria": "casa",
+  "ocasioes": [],
+  "resumo": "Queimador, 100 g de waxmelts e duas tealights.",
+  "descricao": "Os waxmelts derretem no queimador e perfumam a casa. O kit Love One tem o queimador, 100 g de waxmelts e duas tealights; o Love Two, só os waxmelts e as tealights.",
+  "detalhes": [
+    "100 g de waxmelts",
+    "Com ou sem queimador"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "kit-waxmelts-1",
+      "alt": "Queimador com waxmelts em forma de morango e chocolate"
+    },
+    {
+      "ficheiro": "kit-waxmelts-2",
+      "alt": "Kit waxmelts «Amor» no queimador branco"
+    }
+  ],
+  "ordem": 51
+}

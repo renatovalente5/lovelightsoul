@@ -1,0 +1,29 @@
+{
+  "nome": "Coffret Dia dos Avós",
+  "categoria": "presentes",
+  "ocasioes": [],
+  "resumo": "Vela de 200 g com frase para os avós e saco de linho bordado.",
+  "descricao": "Uma vela de cera de soja com pavio de madeira (200 g), num copo de vidro com tampa de madeira, com a frase para a Avó, o Avô ou os Avós, e um saco de linho bordado com chapinha dourada «Feliz dia dos Avós».",
+  "detalhes": [
+    "Vela de 200 g",
+    "Saco de linho bordado"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": "Avó, Avô ou Avós"
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "coffret-dia-dos-avos-1",
+      "alt": "Vela «O colo do Avô» ao lado do saco de linho bordado"
+    },
+    {
+      "ficheiro": "coffret-dia-dos-avos-2",
+      "alt": "Vela «Avós» com tampa de madeira"
+    }
+  ],
+  "ordem": 46
+}

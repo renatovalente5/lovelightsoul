@@ -1,0 +1,46 @@
+{
+  "nome": "Ursinho em frasco",
+  "categoria": "lembrancas",
+  "ocasioes": [
+    "batizado",
+    "aniversario"
+  ],
+  "resumo": "Ursinho em pó cerâmico perfumado num frasco de vidro com tampa de cortiça.",
+  "descricao": "O ursinho, a lembrança mais pedida, sentado num frasco de vidro com tampa de cortiça, laço e gipsófila. As cores do ursinho e do laço escolhem-se para combinar com o evento.",
+  "detalhes": [
+    "Pó cerâmico perfumado",
+    "Frasco de vidro com tampa de cortiça"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": [
+      "Beje",
+      "Rosa velho",
+      "Azul-bebé",
+      "Verde-salva",
+      "Branco"
+    ],
+    "texto": "Nome e data para o cartão"
+  },
+  "unidade": "lembranças",
+  "destaque": true,
+  "fotos": [
+    {
+      "ficheiro": "ursinho-em-frasco-1",
+      "alt": "Ursinhos verde-claro em frascos de vidro com laço verde-salva"
+    },
+    {
+      "ficheiro": "ursinho-em-frasco-2",
+      "alt": "Frascos com ursinhos e gipsófila, para um batizado"
+    },
+    {
+      "ficheiro": "ursinho-em-frasco-3",
+      "alt": "Ursinho em pó cerâmico dentro do frasco, visto de perto"
+    },
+    {
+      "ficheiro": "ursinho-em-frasco-4",
+      "alt": "Ursinhos cor-de-rosa em frascos de vidro com tampa de cortiça"
+    }
+  ],
+  "ordem": 1
+}

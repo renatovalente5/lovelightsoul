@@ -1,0 +1,28 @@
+{
+  "nome": "Vela gatinha",
+  "categoria": "velas",
+  "ocasioes": [],
+  "resumo": "Vela decorativa em forma de gatinha, com laço.",
+  "descricao": "Uma gatinha em cera de soja, com laço de cetim: uma vela decorativa que fica bem em qualquer canto da casa.",
+  "detalhes": [
+    "Cera de soja 100 %"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "vela-gatinha-1",
+      "alt": "Vela branca em forma de gatinha com laço rosa"
+    },
+    {
+      "ficheiro": "vela-gatinha-2",
+      "alt": "Velas gatinho em várias cores"
+    }
+  ],
+  "ordem": 26
+}

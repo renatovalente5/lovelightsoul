@@ -1,0 +1,28 @@
+{
+  "nome": "Convite para padrinhos",
+  "categoria": "presentes",
+  "ocasioes": [
+    "batizado"
+  ],
+  "resumo": "Caixa com moldura para a primeira fotografia, ursinho perfumado e chocolates.",
+  "descricao": "O convite mais bonito, feito com a colaboração do @ideias_atelier: caixa personalizada com moldura para a primeira fotografia, um ursinho em pó cerâmico perfumado e chocolates.",
+  "detalhes": [
+    "Moldura para fotografia",
+    "Ursinho em pó cerâmico perfumado",
+    "Chocolates"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": "Nomes e pergunta do convite"
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "convite-para-padrinhos-1",
+      "alt": "Caixa convite para padrinhos com moldura e ursinho"
+    }
+  ],
+  "ordem": 47
+}

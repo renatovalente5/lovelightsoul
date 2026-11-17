@@ -1,0 +1,29 @@
+{
+  "nome": "Saco de Natal com bola",
+  "categoria": "natal",
+  "ocasioes": [],
+  "resumo": "Saco de tecido de Natal com bola em pó cerâmico e folha de ouro (100 g).",
+  "descricao": "Saco de tecido com padrão de Natal, fita verde e medalha «Feliz Natal» em forma de sino, com uma bola de Natal em pó cerâmico perfumado, branca com folha de ouro, com vela de cera de soja (100 g) e laço dourado na tampa.",
+  "detalhes": [
+    "100 g",
+    "Aroma aleatório"
+  ],
+  "escolhas": {
+    "aroma": false,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "saco-de-natal-bola-1",
+      "alt": "Bola de Natal branca com laço dourado junto ao saco de tecido"
+    },
+    {
+      "ficheiro": "saco-de-natal-bola-2",
+      "alt": "Bola aberta com a vela de cera de soja"
+    }
+  ],
+  "ordem": 61
+}

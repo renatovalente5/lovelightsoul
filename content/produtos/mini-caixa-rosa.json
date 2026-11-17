@@ -1,0 +1,25 @@
+{
+  "nome": "Mini caixa com rosa",
+  "categoria": "caixas-de-flores",
+  "ocasioes": [],
+  "resumo": "Mini caixa com uma rosa de soja perfumada e uma pulseira.",
+  "descricao": "Uma mini caixa com uma rosa de cera de soja perfumada e uma pulseira de aço: uma verdadeira caixa de amor.",
+  "detalhes": [
+    "Rosa de cera de soja perfumada",
+    "Pulseira de aço"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "mini-caixa-rosa-1",
+      "alt": "Mini caixa dourada com rosa de cera, aberta nas mãos"
+    }
+  ],
+  "ordem": 37
+}

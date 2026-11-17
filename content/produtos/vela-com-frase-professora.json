@@ -1,0 +1,33 @@
+{
+  "nome": "Vela para quem ensina",
+  "categoria": "presentes",
+  "ocasioes": [],
+  "resumo": "Vela de 200 g com frase para a Professora, Educadora ou Auxiliar, em caixa.",
+  "descricao": "Uma vela de cera de soja com pavio de madeira num copo de vidro com tampa de madeira (200 g), com a frase da Professora, da Educadora ou da Auxiliar, numa caixa com laço e etiqueta para o nome.",
+  "detalhes": [
+    "Vela de 200 g",
+    "Caixa com laço e etiqueta"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": "Nome para a etiqueta"
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "vela-com-frase-professora-1",
+      "alt": "Vela «Ser Professor» em copo com tampa de madeira"
+    },
+    {
+      "ficheiro": "vela-com-frase-professora-2",
+      "alt": "Vela «Ser Educadora» com caixa e laço"
+    },
+    {
+      "ficheiro": "vela-com-frase-professora-3",
+      "alt": "Vela «Ser Catequista» com tampa de madeira"
+    }
+  ],
+  "ordem": 45
+}

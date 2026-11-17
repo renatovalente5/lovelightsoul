@@ -1,0 +1,51 @@
+{
+  "nome": "Mini vela com gipsófila",
+  "categoria": "lembrancas",
+  "ocasioes": [
+    "comunhao",
+    "batizado"
+  ],
+  "resumo": "Mini vela de soja em frasco com tampa de cortiça, laço e gipsófila.",
+  "descricao": "Uma mini vela de cera de soja num frasco de vidro com tampa de cortiça, um raminho de gipsófila e um laço de cetim. O rótulo leva o nome, a data e, se quiser, uma frase.",
+  "detalhes": [
+    "Cera de soja 100 %",
+    "Frasco de vidro com tampa de cortiça",
+    "Rótulo com o nome e a data"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": [
+      "Beje",
+      "Rosa velho",
+      "Azul-bebé",
+      "Verde-salva",
+      "Branco"
+    ],
+    "texto": "Nome, data e frase para o rótulo"
+  },
+  "unidade": "lembranças",
+  "destaque": true,
+  "fotos": [
+    {
+      "ficheiro": "mini-vela-com-gipsofila-1",
+      "alt": "Mini velas do Crisma com o nome e a data no rótulo, laço verde-salva"
+    },
+    {
+      "ficheiro": "mini-vela-com-gipsofila-2",
+      "alt": "Mini velas da Profissão de Fé com gipsófila e laço verde"
+    },
+    {
+      "ficheiro": "mini-vela-com-gipsofila-3",
+      "alt": "Mini velas da Primeira Comunhão com laço rosa velho"
+    },
+    {
+      "ficheiro": "mini-vela-com-gipsofila-4",
+      "alt": "Mini velas com laço azul-bebé e gipsófila"
+    },
+    {
+      "ficheiro": "mini-vela-com-gipsofila-5",
+      "alt": "Mini vela da Profissão de Fé com tampa de cortiça"
+    }
+  ],
+  "ordem": 3
+}

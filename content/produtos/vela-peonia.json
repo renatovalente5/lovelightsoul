@@ -1,0 +1,29 @@
+{
+  "nome": "Vela peónia",
+  "categoria": "velas",
+  "ocasioes": [],
+  "resumo": "Vela em forma de peónia, em cera de soja.",
+  "descricao": "A perfeição existe e chama-se peónia: uma vela decorativa em forma de flor, com 150 g de cera de soja.",
+  "detalhes": [
+    "Cera de soja 100 %",
+    "150 g"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "vela-peonia-1",
+      "alt": "Vela branca em forma de peónia sobre tabuleiro de madeira"
+    },
+    {
+      "ficheiro": "vela-peonia-2",
+      "alt": "Vela peónia decorada para o Natal"
+    }
+  ],
+  "ordem": 23
+}

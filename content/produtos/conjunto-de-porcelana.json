@@ -1,0 +1,29 @@
+{
+  "nome": "Conjunto de porcelana",
+  "categoria": "casa",
+  "ocasioes": [],
+  "resumo": "Vela de soja e mikado em porcelana com flor em relevo.",
+  "descricao": "Um conjunto de porcelana moderno e elegante: vela em cera de soja e mikado. À venda também na loja Voar Design Floral, em Lousada.",
+  "detalhes": [
+    "Porcelana",
+    "Vela e mikado"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "conjunto-de-porcelana-1",
+      "alt": "Vela e mikado em porcelana azul-clara com flor branca"
+    },
+    {
+      "ficheiro": "conjunto-de-porcelana-2",
+      "alt": "Conjunto de porcelana visto de cima"
+    }
+  ],
+  "ordem": 53
+}

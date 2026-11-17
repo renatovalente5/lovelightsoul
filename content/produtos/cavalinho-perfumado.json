@@ -1,0 +1,33 @@
+{
+  "nome": "Cavalinho perfumado",
+  "categoria": "lembrancas",
+  "ocasioes": [
+    "batizado",
+    "aniversario"
+  ],
+  "resumo": "Cavalinho de baloiço em pó cerâmico perfumado.",
+  "descricao": "Um cavalinho de baloiço em pó cerâmico perfumado, com fita para pendurar.",
+  "detalhes": [
+    "Pó cerâmico perfumado"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": [
+      "Beje",
+      "Rosa velho",
+      "Azul-bebé",
+      "Verde-salva",
+      "Branco"
+    ],
+    "texto": null
+  },
+  "unidade": "lembranças",
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "cavalinho-perfumado-1",
+      "alt": "Cavalinhos de baloiço em pó cerâmico perfumado"
+    }
+  ],
+  "ordem": 10
+}

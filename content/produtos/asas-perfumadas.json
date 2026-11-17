@@ -1,0 +1,36 @@
+{
+  "nome": "Asas perfumadas",
+  "categoria": "lembrancas",
+  "ocasioes": [
+    "comunhao",
+    "batizado"
+  ],
+  "resumo": "Asas de anjo em pó cerâmico perfumado, num cartão com o nome.",
+  "descricao": "Asas de anjo em pó cerâmico perfumado, presas a um cartão com o nome e a data. Ficam bem em qualquer evento.",
+  "detalhes": [
+    "Pó cerâmico perfumado",
+    "Cartão com o nome e a data"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": "Nome e data para o cartão"
+  },
+  "unidade": "lembranças",
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "asas-perfumadas-1",
+      "alt": "Asas de anjo perfumadas com coração azul num cartão com o nome Santiago"
+    },
+    {
+      "ficheiro": "asas-perfumadas-2",
+      "alt": "Asas em pó cerâmico prontas a embalar"
+    },
+    {
+      "ficheiro": "asas-perfumadas-3",
+      "alt": "Cartões com asas perfumadas sobre a mesa"
+    }
+  ],
+  "ordem": 6
+}

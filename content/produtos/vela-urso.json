@@ -1,0 +1,28 @@
+{
+  "nome": "Vela urso",
+  "categoria": "velas",
+  "ocasioes": [],
+  "resumo": "Vela decorativa em forma de ursinho.",
+  "descricao": "Esta vela em forma de ursinho é só a coisa mais fofa: decorativa, em cera de soja, com o aroma à escolha.",
+  "detalhes": [
+    "Cera de soja 100 %"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "vela-urso-1",
+      "alt": "Vela branca em forma de ursinho com etiqueta"
+    },
+    {
+      "ficheiro": "vela-urso-2",
+      "alt": "Duas velas ursinho, uma grande e uma pequena"
+    }
+  ],
+  "ordem": 25
+}

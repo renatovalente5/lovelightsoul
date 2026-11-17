@@ -1,0 +1,39 @@
+{
+  "nome": "Vela com frase",
+  "categoria": "velas",
+  "ocasioes": [],
+  "resumo": "Vela de 200 g em copo de vidro com tampa de madeira e a sua frase.",
+  "descricao": "Uma vela de cera de soja com pavio de madeira, num copo de vidro com tampa de madeira (200 g). O copo leva a frase, a data ou o nome que quiser.",
+  "detalhes": [
+    "Cera de soja 100 %",
+    "Pavio de madeira",
+    "200 g",
+    "Tampa de madeira"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": "A frase, a data ou o nome"
+  },
+  "unidade": null,
+  "destaque": true,
+  "fotos": [
+    {
+      "ficheiro": "vela-com-frase-1",
+      "alt": "Vela em copo branco com tampa de madeira e raminho de flores secas"
+    },
+    {
+      "ficheiro": "vela-com-frase-2",
+      "alt": "Vela com a frase «O colo do Avô» segura nas mãos"
+    },
+    {
+      "ficheiro": "vela-com-frase-3",
+      "alt": "Vela personalizada com mensagem no copo"
+    },
+    {
+      "ficheiro": "vela-com-frase-4",
+      "alt": "Vela «Madrinha» com corações e tampa de madeira"
+    }
+  ],
+  "ordem": 24
+}

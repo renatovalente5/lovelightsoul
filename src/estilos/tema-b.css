@@ -1,0 +1,164 @@
+/* Desenho B «Luz» (escolhido a 17 nov 2026): editorial e luminoso. Logótipo ao centro numa cápsula moca (a cor
+   exata do logótipo, para o dourado deles ficar igual), ligações em maiúsculas espaçadas, títulos em Shippori Mincho,
+   texto em Wix Madefor Text, e a Allison só como palavra manuscrita decorativa. Contrastes: tinta #2E211C sobre
+   #FBF7F2 = 15,4:1; tinta-2 #6A5850 = 6,3:1; ouro-texto #7A5C2E = 5,7:1; botão #2E211C com branco = 16:1. */
+:root{
+  --fundo:#FBF7F2; --papel:#FFFFFF; --tinta:#2E211C; --tinta-2:#6A5850; --linha:#E9DFD5; --rosa:#F3E7DF;
+  --moca:#9C6D5D; --moca-forte:#7E5446; --moca-escura:#6E4A3D; --ouro-texto:#7A5C2E;
+  --titulos:"Shippori Mincho","Hiragino Mincho ProN",Georgia,serif;
+  --texto:"Wix Madefor Text",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mao:"Allison","Snell Roundhand",cursive;
+  --peso-titulos:500; --espaco-titulos:-.005em;
+  --margem:clamp(16px,4vw,48px); --largura:1240px; --r-g:24px; --r-m:18px; --r-p:14px;
+}
+body{line-height:1.65}
+.etiqueta{font-weight:500;font-size:.76rem;letter-spacing:.2em}
+.mao{font:400 clamp(2.6rem,2rem + 2.6vw,4.2rem)/.9 var(--mao);color:var(--moca-forte);letter-spacing:0}
+.btn{font-weight:500;letter-spacing:.02em}
+.btn--cheio{background:var(--tinta)}
+.btn--cheio:hover{background:var(--moca-forte)}
+.ligacao{color:var(--tinta);font-weight:500;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:6px}
+.ligacao:hover{color:var(--moca-forte)}
+
+/* ---------------------------------------------------------------- cabeçalho: logótipo ao centro */
+.topo--b{position:sticky;top:0;z-index:30;background:color-mix(in srgb,var(--fundo) 97%,transparent);border-bottom:1px solid var(--linha)}
+.topo--b .topo__barra{display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);align-items:center;min-height:64px;gap:12px}
+.topo--b .topo__esq,.topo--b .topo__dir{display:flex;align-items:center;gap:6px;min-width:0}
+.topo--b .topo__dir{justify-content:flex-end}
+.topo--b .topo__nav{display:none}
+.topo--b .topo__nav a{font:500 .8rem/1 var(--texto);letter-spacing:.16em;text-transform:uppercase;text-decoration:none;padding:14px 0;border-bottom:1px solid transparent}
+.topo--b .topo__nav a:hover{color:var(--moca-forte)}
+.topo--b .topo__nav a[aria-current="page"]{border-bottom-color:var(--tinta)}
+.capsula{display:inline-flex;align-items:center;background:var(--moca);border-radius:999px;padding:9px 20px}
+.capsula__img{height:22px;width:auto}
+.topo--b .pedido-btn{padding:0}
+.topo--b .pedido-btn__n{position:absolute;top:4px;right:0;min-width:18px;height:18px;padding:0 5px;font-size:.66rem}
+.topo--b .pedido-btn__n:empty,.topo--b .pedido-btn__n[data-zero]{display:none}
+.topo--b .atalhos{gap:22px;padding:0 var(--margem);border-top:1px solid var(--linha)}
+.topo--b .atalhos a{min-height:44px;padding:0;border-radius:0;font:500 .76rem/1 var(--texto);letter-spacing:.16em;text-transform:uppercase}
+@media (min-width:960px){
+  .topo--b .topo__barra{min-height:84px}
+  .topo--b .menu-btn{display:none}
+  .topo--b .topo__nav{display:flex;gap:34px}
+  .topo--b .topo__dir .topo__nav{margin-right:22px}
+  .capsula{padding:12px 30px}
+  .capsula__img{height:30px}
+}
+
+/* ---------------------------------------------------------------- capa: três fotografias (no telemóvel, a do meio) */
+.capa-b{position:relative}
+.capa-b__fotos{display:grid;grid-template-columns:minmax(0,1fr)}
+.capa-b__fotos picture:not(:has(.capa-b__meio)){display:none}
+.capa-b__fotos img{width:100%;height:min(56vh,520px);min-height:340px;object-fit:cover}
+.capa-b__painel{position:relative;margin:-56px var(--margem) 0;background:var(--fundo);border-radius:24px 24px 0 0;padding:28px 4px 8px;display:grid;gap:16px}
+.capa-b h1{font:500 clamp(2.5rem,1.6rem + 4vw,4.6rem)/1.05 var(--titulos);letter-spacing:-.015em}
+@media (min-width:960px){
+  .capa-b__fotos{grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}
+  .capa-b__fotos picture:not(:has(.capa-b__meio)){display:block}
+  .capa-b__fotos img{height:min(80vh,760px);min-height:560px}
+  .capa-b__painel{position:absolute;left:max(var(--margem),calc((100% - var(--largura))/2));bottom:48px;margin:0;width:min(540px,40%);border-radius:28px;padding:40px 44px;box-shadow:0 30px 80px -40px rgba(46,33,28,.45)}
+}
+
+.seccao{padding:64px 0}
+@media (min-width:960px){.seccao{padding:104px 0}}
+.seccao__topo{max-width:none}
+.seccao__topo--col,.seccao__topo--centro{margin-bottom:36px}
+
+/* ---------------------------------------------------------------- as criações em mosaico */
+.mosaico-b{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:28px 14px}
+.peca-b{position:relative;display:grid;gap:12px;align-content:start}
+.peca-b__foto{overflow:hidden;border-radius:18px}
+.peca-b__foto img{width:100%;aspect-ratio:3/4;object-fit:cover;transition:transform .8s cubic-bezier(.2,.7,.2,1)}
+.peca-b h3{font:500 1.2rem/1.2 var(--titulos)}
+.peca-b h3 a{text-decoration:none}
+.peca-b h3 a::after{content:"";position:absolute;inset:0}
+.peca-b p{font-size:.92rem;color:var(--tinta-2)}
+.peca-b--grande{grid-column:1/-1}
+.peca-b--grande .peca-b__foto img{aspect-ratio:4/3}
+.peca-b:has(a:focus-visible){outline:2.5px solid var(--moca-forte);outline-offset:6px;border-radius:18px}
+.peca-b a:focus-visible{outline:none}
+@media (hover:hover){.peca-b:hover .peca-b__foto img{transform:scale(1.04)}}
+@media (min-width:960px){
+  .mosaico-b{grid-template-columns:repeat(4,minmax(0,1fr));gap:40px 28px}
+  .peca-b--grande{grid-column:span 2;grid-row:span 2;grid-template-rows:minmax(0,1fr) auto auto}
+  .peca-b--grande .peca-b__foto,.peca-b--grande .peca-b__foto picture{height:100%}
+  .peca-b--grande .peca-b__foto img{aspect-ratio:auto;height:100%;min-height:600px}
+  .peca-b h3{font-size:1.35rem}
+}
+
+/* ---------------------------------------------------------------- as ocasiões em círculo */
+.circulos{display:flex;flex-wrap:wrap;justify-content:center;gap:26px 16px}
+.circulo{display:grid;justify-items:center;gap:12px;text-decoration:none;width:100px}
+.circulo img{width:100px;height:100px;object-fit:cover;border-radius:50%;box-shadow:0 0 0 1px var(--linha),0 0 0 7px var(--fundo),0 0 0 8px var(--linha);transition:box-shadow .3s}
+.circulo:hover img{box-shadow:0 0 0 1px var(--linha),0 0 0 7px var(--fundo),0 0 0 8px var(--moca)}
+.circulo span{font:500 1.02rem/1.2 var(--titulos)}
+@media (min-width:960px){.circulos{gap:40px 52px}.circulo{width:156px}.circulo img{width:156px;height:156px}}
+.seccao__topo--centro .mao{display:block;margin-top:2px}
+
+/* ---------------------------------------------------------------- Natal: fotografia alta e a lista dos coffrets */
+.natal-b{display:grid;gap:36px}
+.natal-b__foto{width:100%;aspect-ratio:3/4;object-fit:cover;border-radius:24px}
+.natal-b .lead{margin-top:12px}
+.lista-coffrets{display:grid;margin:20px 0 26px;border-top:1px solid var(--linha)}
+.linha-coffret{position:relative;display:grid;grid-template-columns:88px minmax(0,1fr) 20px;gap:18px;align-items:center;padding:16px 0;border-bottom:1px solid var(--linha)}
+.linha-coffret img{width:88px;height:88px;object-fit:cover;border-radius:14px}
+.linha-coffret h3{font:500 1.22rem/1.2 var(--titulos)}
+.linha-coffret h3 a{text-decoration:none}
+.linha-coffret h3 a::after{content:"";position:absolute;inset:0}
+.linha-coffret p{font-size:.9rem;color:var(--tinta-2);line-height:1.5;margin-top:2px}
+.linha-coffret>svg{width:20px;height:20px;color:var(--moca-forte)}
+.linha-coffret:hover h3{color:var(--moca-forte)}
+.linha-coffret:has(a:focus-visible){outline:2.5px solid var(--moca-forte);outline-offset:4px;border-radius:8px}
+.linha-coffret a:focus-visible{outline:none}
+@media (min-width:960px){.natal-b{grid-template-columns:minmax(0,5fr) minmax(0,6fr);gap:80px;align-items:center}}
+
+/* ---------------------------------------------------------------- a história */
+.historia-b{display:grid;gap:30px;align-items:center}
+.historia-b__foto{width:100%;aspect-ratio:4/5;object-fit:cover;border-radius:24px}
+.historia-b__texto{display:grid;gap:18px}
+.historia-b__texto>p:not(.mao):not(.historia-b__assina){color:var(--tinta-2);font-size:1.12rem;max-width:50ch}
+.historia-b__texto .mao{font-size:clamp(3.2rem,2.4rem + 3vw,5.4rem)}
+.historia-b__texto .historia-b__assina{font:400 2.8rem/1 var(--mao);color:var(--tinta)}
+@media (min-width:960px){.historia-b{grid-template-columns:minmax(0,6fr) minmax(0,5fr);gap:88px}.historia-b picture{order:2}}
+
+/* ---------------------------------------------------------------- a carta de aromas */
+.carta{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 20px;border-top:1px solid var(--linha);margin-bottom:18px}
+.carta li{padding:14px 0}
+.carta p{display:none}
+.carta li{display:grid;gap:4px;padding:18px 0;border-bottom:1px solid var(--linha)}
+.carta h3{font:500 clamp(1.02rem,.95rem + .4vw,1.2rem)/1.25 var(--titulos)}
+.carta p{font-size:.88rem;color:var(--tinta-2);line-height:1.5}
+@media (min-width:700px){.carta{gap:0 48px}.carta li{padding:18px 0}.carta p{display:block}}
+@media (min-width:1100px){.carta{grid-template-columns:repeat(3,minmax(0,1fr))}}
+
+/* ---------------------------------------------------------------- opiniões e factos */
+.pagina-inicio .opinioes{gap:40px}
+.pagina-inicio .opiniao{background:none;border:0;padding:0 8px;text-align:center;justify-items:center}
+.pagina-inicio .opiniao svg{color:#C9A06A;width:30px;height:22px}
+.pagina-inicio .opiniao blockquote{font-size:1.25rem;max-width:30ch}
+.pagina-inicio .opiniao figcaption{font:500 .76rem/1.4 var(--texto);letter-spacing:.14em;text-transform:uppercase}
+.pagina-inicio .opinioes+.nota{text-align:center;margin:40px auto 0}
+.seccao--factos{padding-top:0}
+.pagina-inicio .factos{border-top:1px solid var(--linha);border-bottom:1px solid var(--linha);gap:0}
+.pagina-inicio .facto{padding:26px 16px 26px 0}
+.pagina-inicio .facto h3{font:500 1.15rem/1.25 var(--titulos)}
+@media (min-width:900px){.pagina-inicio .facto{padding:36px 28px}.pagina-inicio .facto+.facto{border-left:1px solid var(--linha)}.pagina-inicio .facto:first-child{padding-left:0}}
+
+/* ---------------------------------------------------------------- cartões, separadores e páginas interiores */
+.peca-cartao__foto{border-radius:16px}
+.peca-cartao__foto img{aspect-ratio:3/4}
+.peca-cartao__nome{font-weight:500}
+.separadores a{font-size:.78rem;letter-spacing:.14em;text-transform:uppercase}
+.separadores a[aria-current="page"]{border-bottom-color:var(--tinta)}
+.galeria__fila{border-radius:22px}
+.chip input:checked+span{border-color:var(--tinta);box-shadow:inset 0 0 0 1px var(--tinta);background:var(--rosa)}
+.canal__icone{background:var(--moca)}
+
+/* ---------------------------------------------------------------- rodapé: claro, com o logótipo na sua placa */
+.rodape--b{background:var(--papel);border-top:1px solid var(--linha);margin-top:24px}
+.rodape--b .rodape__marca p{color:var(--tinta-2)}
+.rodape--b .redes a{border:1px solid var(--linha)}
+.rodape--b .redes a:hover{border-color:var(--moca)}
+.rodape--b h2{font:500 .76rem/1.2 var(--texto);letter-spacing:.18em;text-transform:uppercase;color:var(--ouro-texto)}
+.rodape--b .rodape__fim{border-top:1px solid var(--linha);color:var(--tinta-2)}
+.rodape--b a:hover{color:var(--moca-forte)}

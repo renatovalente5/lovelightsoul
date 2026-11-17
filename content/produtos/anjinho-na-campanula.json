@@ -1,0 +1,51 @@
+{
+  "nome": "Anjinho na campânula",
+  "categoria": "lembrancas",
+  "ocasioes": [
+    "batizado",
+    "comunhao"
+  ],
+  "resumo": "Anjinho em pó cerâmico perfumado numa campânula de vidro.",
+  "descricao": "Um anjinho em pó cerâmico perfumado, numa campânula de vidro com base de cortiça, laço de cetim e um raminho de gipsófila. O cartão de dentro leva o nome e a data do dia.",
+  "detalhes": [
+    "Pó cerâmico perfumado",
+    "Campânula de vidro com base de cortiça",
+    "Cartão com o nome e a data"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": [
+      "Beje",
+      "Rosa velho",
+      "Azul-bebé",
+      "Verde-salva",
+      "Branco"
+    ],
+    "texto": "Nome e data para o cartão"
+  },
+  "unidade": "lembranças",
+  "destaque": true,
+  "fotos": [
+    {
+      "ficheiro": "anjinho-na-campanula-1",
+      "alt": "Dois anjinhos em campânulas de vidro, com o cartão «Profissão de Fé» e o nome"
+    },
+    {
+      "ficheiro": "anjinho-na-campanula-2",
+      "alt": "Anjinho a rezar numa campânula, com o cartão da Primeira Comunhão"
+    },
+    {
+      "ficheiro": "anjinho-na-campanula-3",
+      "alt": "Fila de campânulas com anjinhos, laço beje e gipsófila"
+    },
+    {
+      "ficheiro": "anjinho-na-campanula-4",
+      "alt": "Anjinhos sentados em campânulas com base de cortiça"
+    },
+    {
+      "ficheiro": "anjinho-na-campanula-5",
+      "alt": "Anjinho numa campânula de vidro para um batizado"
+    }
+  ],
+  "ordem": 0
+}

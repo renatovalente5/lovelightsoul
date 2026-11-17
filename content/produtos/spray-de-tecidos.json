@@ -1,0 +1,25 @@
+{
+  "nome": "Spray de tecidos",
+  "categoria": "casa",
+  "ocasioes": [],
+  "resumo": "Home spray de 250 ml para cortinas, sofás e roupa.",
+  "descricao": "Pensado para refrescar e perfumar tecidos (cortinas, sofás, roupa, carpetes): elimina os odores e deixa um aroma agradável. Foi testado e não mancha. Frasco de 250 ml.",
+  "detalhes": [
+    "250 ml",
+    "Não mancha"
+  ],
+  "escolhas": {
+    "aroma": true,
+    "lacos": null,
+    "texto": null
+  },
+  "unidade": null,
+  "destaque": false,
+  "fotos": [
+    {
+      "ficheiro": "spray-de-tecidos-1",
+      "alt": "Frasco preto de spray de tecidos com rótulo rosa"
+    }
+  ],
+  "ordem": 49
+}
