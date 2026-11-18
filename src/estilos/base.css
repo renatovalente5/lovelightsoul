@@ -320,8 +320,8 @@ fieldset.escolha>legend+*{clear:both}
 .rodape__grelha{display:grid;gap:36px}
 @media (min-width:900px){.rodape__grelha{grid-template-columns:minmax(0,4fr) minmax(0,7fr);gap:48px}}
 .rodape__marca{display:grid;gap:16px;align-content:start;justify-items:start}
-.rodape__placa{display:inline-block;background:var(--moca);border-radius:18px;padding:18px 22px}
-.rodape__placa img{width:170px;height:auto}
+.rodape__logo{display:inline-block}
+.rodape__logo img{width:210px;height:auto}
 .rodape__marca p{max-width:34ch;font-size:.95rem}
 .redes{display:flex;gap:10px}
 .redes a{display:inline-grid;place-items:center;width:44px;height:44px;border-radius:999px}

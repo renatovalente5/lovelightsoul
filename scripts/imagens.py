@@ -115,9 +115,13 @@ def cartao_logotipo(logo):
 def marca():
     """O logótipo (inteiro e só a palavra) em PNG e WebP a várias alturas, e os ícones (a vela de um só traço sobre
     o moca, num quadrado de cantos redondos)."""
-    saida = {'inteiro': {}, 'palavra': {}, 'icones': {}}
+    saida = {'inteiro': {}, 'palavra': {}, 'solido-inteiro': {}, 'solido-palavra': {}, 'icones': {}}
+    # o dourado sobre o moca (o original, para o cartão de partilha) e a versão sólida em moca escuro para os fundos
+    # claros (o Renato, 18 nov 2026: «tens de meter o logo mais percetível, refaz o logo e muda de cor se for preciso»)
     for chave, ficheiro, alturas in (('inteiro', 'logo-dourado.png', (96, 128, 160, 200, 260)),
-                                     ('palavra', 'logo-palavra.png', (24, 28, 32, 40, 48, 56, 64, 80))):
+                                     ('palavra', 'logo-palavra.png', (24, 28, 32, 40, 48, 56, 64, 80)),
+                                     ('solido-inteiro', 'solido-inteiro.png', (120, 140, 160)),
+                                     ('solido-palavra', 'solido-palavra.png', (36, 44, 48, 56))):
         origem = os.path.join(MARCA, ficheiro)
         h = resumo(origem, extra=chave)
         im = Image.open(origem).convert('RGBA')
@@ -183,7 +187,7 @@ def principal():
             for fmt in d['formatos']:
                 vivos.add(f'{nome}-{d["resumo"]}-{w}.{fmt}')
     vivos.update(manifesto['partilha'].values())
-    for chave in ('inteiro', 'palavra'):
+    for chave in ('inteiro', 'palavra', 'solido-inteiro', 'solido-palavra'):
         for d in manifesto['marca'][chave]['altura'].values():
             for k in ('1x', '2x'):
                 vivos.update([d[k] + '.webp', d[k] + '.png'])

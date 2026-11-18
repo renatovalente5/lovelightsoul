@@ -29,8 +29,9 @@ body{line-height:1.65}
 .topo--b .topo__nav a{font:500 .8rem/1 var(--texto);letter-spacing:.16em;text-transform:uppercase;text-decoration:none;padding:14px 0;border-bottom:1px solid transparent}
 .topo--b .topo__nav a:hover{color:var(--moca-forte)}
 .topo--b .topo__nav a[aria-current="page"]{border-bottom-color:var(--tinta)}
-.capsula{display:inline-flex;align-items:center;background:var(--moca);border-radius:999px;padding:9px 20px}
-.capsula__img{height:22px;width:auto}
+/* o logótipo em moca escuro, sem cápsula: lê-se bem sobre o creme (pedido do Renato, 18 nov 2026) */
+.logo-cab{display:inline-flex;align-items:center;padding:6px 4px}
+.logo-cab__img{height:34px;width:auto}
 .topo--b .pedido-btn{padding:0}
 .topo--b .pedido-btn__n{position:absolute;top:4px;right:0;min-width:18px;height:18px;padding:0 5px;font-size:.66rem}
 .topo--b .pedido-btn__n:empty,.topo--b .pedido-btn__n[data-zero]{display:none}
@@ -41,8 +42,7 @@ body{line-height:1.65}
   .topo--b .menu-btn{display:none}
   .topo--b .topo__nav{display:flex;gap:34px}
   .topo--b .topo__dir .topo__nav{margin-right:22px}
-  .capsula{padding:12px 30px}
-  .capsula__img{height:30px}
+  .logo-cab__img{height:48px}
 }
 
 /* ---------------------------------------------------------------- capa: três fotografias (no telemóvel, a do meio) */

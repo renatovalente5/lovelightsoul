@@ -34,6 +34,7 @@ function atalhos(ctx) {
 }
 
 function placaLogo(ctx, classe) {
+  if (classe === 'logo-cab') return `<a class="logo-cab" href="${url(ctx, '/')}" aria-label="Love Light &amp; Soul — página inicial">${logo(ctx, 'solido-palavra', 56, '', 'logo-cab__img')}</a>`;
   return `<a class="${classe}" href="${url(ctx, '/')}" aria-label="Love Light &amp; Soul — página inicial">${logo(ctx, 'palavra', 64, '', `${classe}__img`)}</a>`;
 }
 
@@ -42,7 +43,7 @@ export function cabecalho(ctx, actual) {
     return `<header class="topo topo--b" data-topo>
   <div class="contentor topo__barra">
     <div class="topo__esq">${botaoMenu}<nav class="topo__nav" aria-label="Principal">${nav(ctx, actual, MENU.slice(0, 2))}</nav></div>
-    ${placaLogo(ctx, 'capsula')}
+    ${placaLogo(ctx, 'logo-cab')}
     <div class="topo__dir"><nav class="topo__nav" aria-label="Principal (continuação)">${nav(ctx, actual, MENU.slice(2))}</nav>${botaoPedido(ctx, false)}</div>
   </div>
   ${atalhos(ctx)}
@@ -107,7 +108,7 @@ export function rodape(ctx, d) {
   <div class="contentor rodape__caixa">
     <div class="rodape__grelha">
       <div class="rodape__marca">
-        <a class="rodape__placa" href="${url(ctx, '/')}" aria-label="Love Light &amp; Soul — página inicial">${logo(ctx, 'inteiro', 128, '')}</a>
+        <a class="rodape__logo" href="${url(ctx, '/')}" aria-label="Love Light &amp; Soul — página inicial">${logo(ctx, 'solido-inteiro', 140, '')}</a>
         <p>${esc(s.frase)}</p>
         <div class="redes"><a href="${esc(s.redes.instagram)}" rel="noopener" aria-label="Instagram">${icones.instagram}</a><a href="${esc(s.redes.facebook)}" rel="noopener" aria-label="Facebook">${icones.facebook}</a></div>
       </div>
